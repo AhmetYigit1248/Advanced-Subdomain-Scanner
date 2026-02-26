@@ -18,16 +18,8 @@ Unlike traditional tools that dump thousands of dead DNS records, RapidRecon act
 
 RapidRecon uses the powerful **Advanced Subdomain Scanner API** as its backend engine. To use this tool, you need an API key.
 
-1. Go to the RapidAPI page: 👉 **[Advanced Subdomain Scanner API]([https://rapidapi.com/yigitahmet248/api/advanced-subdomain-scanner])**
+1. Go to the RapidAPI page: 👉 **[Advanced Subdomain Scanner API](https://rapidapi.com/yigitahmet248/api/advanced-subdomain-scanner)**
 2. Click on the **Pricing** tab and subscribe to the **FREE Basic Plan** (Allows 5 deep scans per day).
 3. Copy your `X-RapidAPI-Key` from the endpoint testing playground.
 
 ---
-
-## 🛠️ Installation
-
-1. Clone the repository:
-```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/RapidRecon.git](https://github.com/YOUR_GITHUB_USERNAME/RapidRecon.git)
-cd RapidRecon
-```
